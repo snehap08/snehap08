@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @snehap08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there, I'm Sneha Pandey!
 
-<!---
-snehap08/snehap08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Aspiring Software Engineer | Lifelong Learner | Tech Enthusiast**
+
+Welcome to my GitHub! Here, you'll find my journey through the world of software development, where I turn ideas into code and challenges into opportunities.
+
+## About Me  
+- 💻 Passionate about building efficient, scalable, and user-centric solutions.  
+- 🌟 Skilled in **Python, and JavaScript**.  
+- 🌱 Currently exploring **Competitive Programming, Full-Stack Development, and System Design**.
+- 🎯 Striving to make an impact through innovation and collaboration.
+
+## Let's Connect   
+🔗 **LinkedIn**: https://www.linkedin.com/in/sneha-pandey-05a970223/
+🌐 **Portfolio**: https://sneha-pi.vercel.app/
